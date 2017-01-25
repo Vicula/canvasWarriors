@@ -1,12 +1,12 @@
 import React from "react";
 
-export default class Landing extends React.Component {
+export default class Test extends React.Component {
   render() {
 
-    
+
     return (
       <div>
-        {this.props.children}
+        <h1>WOW</h1>
       </div>
     )
   }
